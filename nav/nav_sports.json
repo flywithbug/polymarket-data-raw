@@ -1,0 +1,974 @@
+{
+    "children": [
+        {
+            "children": [],
+            "forceShow": false,
+            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+            "id": "745",
+            "label": "NBA",
+            "slug": "nba"
+        },
+        {
+            "children": [],
+            "forceShow": false,
+            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/champions-league-pic-QIUFsL8vaDdq.png",
+            "id": "100977",
+            "label": "UCL",
+            "slug": "ucl"
+        },
+        {
+            "children": [],
+            "forceShow": false,
+            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
+            "id": "899",
+            "label": "NHL",
+            "slug": "nhl"
+        },
+        {
+            "children": [],
+            "forceShow": false,
+            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ufc.png",
+            "id": "279",
+            "label": "UFC",
+            "slug": "ufc"
+        },
+        {
+            "children": [
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
+                    "id": "450",
+                    "label": "NFL",
+                    "slug": "nfl"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/espn+college+football+logo.png",
+                    "id": "100351",
+                    "label": "CFB",
+                    "slug": "cfb"
+                }
+            ],
+            "forceShow": false,
+            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
+            "id": "10",
+            "label": "Football",
+            "slug": "football"
+        },
+        {
+            "children": [
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
+                    "id": "306",
+                    "label": "EPL",
+                    "slug": "EPL"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-lal.png",
+                    "id": "780",
+                    "label": "La Liga",
+                    "slug": "la-liga"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-bun.jpg",
+                    "id": "1494",
+                    "label": "bundesliga",
+                    "slug": "bundesliga"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer-ball-d7941ac797.jpg",
+                    "id": "100100",
+                    "label": "MLS",
+                    "slug": "mls"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/con.png",
+                    "id": "100787",
+                    "label": "CONMEBOL",
+                    "slug": "conmebol"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/champions-league-pic-QIUFsL8vaDdq.png",
+                    "id": "100977",
+                    "label": "UCL",
+                    "slug": "ucl"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cof.png",
+                    "id": "101280",
+                    "label": "CONCACAF",
+                    "slug": "concacaf"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/afc.png",
+                    "id": "101680",
+                    "label": "AFC",
+                    "slug": "afc"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ere.png",
+                    "id": "101735",
+                    "label": "Eredivisie",
+                    "slug": "ere"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/liga-portugal-18a39e1e8d.png",
+                    "id": "101772",
+                    "label": "Primeira Liga",
+                    "slug": "primeira-liga"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/copa-del-ray-c8d5e1b076.png",
+                    "id": "101783",
+                    "label": "Copa Del Rey",
+                    "slug": "copa-del-rey"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/uel.png",
+                    "id": "101787",
+                    "label": "UEL",
+                    "slug": "uel"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Serie-A-Logo.png",
+                    "id": "101962",
+                    "label": "sea",
+                    "slug": "sea"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/itc.png",
+                    "id": "102008",
+                    "label": "Coppa Italia",
+                    "slug": "itc"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-fl1.png",
+                    "id": "102070",
+                    "label": "Ligue 1",
+                    "slug": "ligue-1"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/DFB-Pokal-ebed3c1834.png",
+                    "id": "102154",
+                    "label": "DFB-Pokal",
+                    "slug": "dfb-pokal"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+                    "id": "102232",
+                    "label": "FIFA World Cup",
+                    "slug": "fifa-world-cup"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/mex.png",
+                    "id": "102448",
+                    "label": "Liga MX",
+                    "slug": "mex"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/lcs.png",
+                    "id": "102449",
+                    "label": "Leagues Cup",
+                    "slug": "lcs"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fif.png",
+                    "id": "102539",
+                    "label": "Fifa Friendly",
+                    "slug": "fifa-friendly"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/caf.png",
+                    "id": "102540",
+                    "label": "CAF",
+                    "slug": "caf"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/uef.png",
+                    "id": "102544",
+                    "label": "UEF Qualifiers",
+                    "slug": "uef-qualifiers"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/arg.png",
+                    "id": "102561",
+                    "label": "Argentina Primera División",
+                    "slug": "arg"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/lib.png",
+                    "id": "102562",
+                    "label": "Copa Libertadores",
+                    "slug": "lib"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/sud.png",
+                    "id": "102563",
+                    "label": "Copa Sudamericana",
+                    "slug": "sud"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/tur.png",
+                    "id": "102564",
+                    "label": "Süper Lig",
+                    "slug": "tur"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/coupe-france-soccer-6cf56ac790.png",
+                    "id": "102604",
+                    "label": "Coupe de France",
+                    "slug": "coupe-de-france"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/elc2-e7d62fbec1.png",
+                    "id": "102643",
+                    "label": "EFL Championship",
+                    "slug": "efl-championship"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/brasilerirao-image-52ef283574.png",
+                    "id": "102648",
+                    "label": "Brazil Serie A",
+                    "slug": "brazil-serie-a"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/japan-league-a40db9c2f9.png",
+                    "id": "102649",
+                    "label": "Japan J League",
+                    "slug": "japan-j-league"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/saudi-league-0eb74ab5b8.png",
+                    "id": "102650",
+                    "label": "Saudi Professional League",
+                    "slug": "saudi-professional-league"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/norwegian-elite-2078e62a98.jpg",
+                    "id": "102651",
+                    "label": "Norway Eliteserien",
+                    "slug": "norway-eliteserien"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/superliga-b28b8e3c7c.png",
+                    "id": "102652",
+                    "label": "Denmark Superliga",
+                    "slug": "denmark-superliga"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/uefa-conference-league-798904aed0.png",
+                    "id": "102763",
+                    "label": "Europa Conference League",
+                    "slug": "europa-conference-league"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/chinese-super-league-39d902bcb6.png",
+                    "id": "102764",
+                    "label": "Chinese Super League",
+                    "slug": "chinese-super-league"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/a-league-6595bd3047.jpg",
+                    "id": "102765",
+                    "label": "Australian A-League",
+                    "slug": "australian-a-league"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/japan-j2-leauge-69530d7b40.png",
+                    "id": "102770",
+                    "label": "Japan J2 League",
+                    "slug": "japan-j2-league"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/k-league-87b53492f4.png",
+                    "id": "102771",
+                    "label": "K-league",
+                    "slug": "k-league"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/bundesliga-b9267b423e.jpg",
+                    "id": "102864",
+                    "label": "Bundesliga 2",
+                    "slug": "bundesliga-2"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/laliga-2-031640e567.jpg",
+                    "id": "102866",
+                    "label": "La Liga 2",
+                    "slug": "la-liga-2"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/serie-b-6e8f96a633.png",
+                    "id": "102870",
+                    "label": "Serie B",
+                    "slug": "serie-b"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ligue-2-9d570c4759.jpg",
+                    "id": "102871",
+                    "label": "Ligue 2",
+                    "slug": "ligue-2"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/supercupa-dbf3cf0ae5.png",
+                    "id": "103075",
+                    "label": "Spanish Super Cup",
+                    "slug": "spanish-super-cup"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wucl-68b2409fdc.png",
+                    "id": "103885",
+                    "label": "Women's Champions League",
+                    "slug": "womens-champions-league"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ukraine premier league-3cb76c63f4.png",
+                    "id": "103886",
+                    "label": "Ukraine Premier Liha",
+                    "slug": "ukraine-premier-liha"
+                }
+            ],
+            "forceShow": false,
+            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
+            "id": "100350",
+            "label": "Soccer",
+            "slug": "soccer"
+        },
+        {
+            "children": [
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+                    "id": "101232",
+                    "label": "ATP",
+                    "slug": "atp"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
+                    "id": "102123",
+                    "label": "WTA",
+                    "slug": "wta"
+                }
+            ],
+            "forceShow": false,
+            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+            "id": "864",
+            "label": "Tennis",
+            "slug": "tennis"
+        },
+        {
+            "children": [
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ipl-logo-mWgZFOEQvE23.jpg",
+                    "id": "518",
+                    "label": "India",
+                    "slug": "india"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ipl-logo-mWgZFOEQvE23.jpg",
+                    "id": "101977",
+                    "label": "IPL",
+                    "slug": "ipl"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+                    "id": "102803",
+                    "label": "International Cricket",
+                    "slug": "international-cricket"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-south-africa-81c78b071d.png",
+                    "id": "102808",
+                    "label": "CSA T20",
+                    "slug": "csa-t20"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/icc-2a6f105be7.jpg",
+                    "id": "102810",
+                    "label": "International T20",
+                    "slug": "international-t20"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-lanka-premier-league-a0813e2f20.png",
+                    "id": "102812",
+                    "label": "Lanka Premier League",
+                    "slug": "lanka-premier-league"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/big-bash-league-f223934dac.png",
+                    "id": "102813",
+                    "label": "Big Bash League",
+                    "slug": "big-bash-league"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/icc-2a6f105be7.jpg",
+                    "id": "102815",
+                    "label": "ODI",
+                    "slug": "odi"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-sheffield-shield-7aba596ab9.png",
+                    "id": "102817",
+                    "label": "Sheffield Shield",
+                    "slug": "sheffield-shield"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/icc-world-test-a3388b385f.jpg",
+                    "id": "102842",
+                    "label": "Cricket Test",
+                    "slug": "cricket-test"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+                    "id": "102946",
+                    "label": "Cricket Australia",
+                    "slug": "cricket-australia"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+                    "id": "102948",
+                    "label": "Cricket UAE",
+                    "slug": "cricket-uae"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+                    "id": "102949",
+                    "label": "Cricket New Zealand",
+                    "slug": "cricket-new-zealand"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+                    "id": "103014",
+                    "label": "Cricket Bangladesh",
+                    "slug": "cricket-bangladesh"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+                    "id": "103178",
+                    "label": "Cricket U19 World Cup",
+                    "slug": "cricket-u19-world-cup"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+                    "id": "103179",
+                    "label": "Cricket Women Premier League",
+                    "slug": "cricket-women-premier-league"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+                    "id": "103180",
+                    "label": "Women's National Cricket League",
+                    "slug": "womens-national-cricket-league"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+                    "id": "103181",
+                    "label": "Afghanistan vs West Indies (T20I)",
+                    "slug": "afghanistan-vs-west-indies-t20i"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+                    "id": "103182",
+                    "label": "Bhutan Tri-Series",
+                    "slug": "bhutan-tri-series"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+                    "id": "103805",
+                    "label": "Pakistan Super League",
+                    "slug": "pakistan-super-league"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+                    "id": "103807",
+                    "label": "T20 Blast",
+                    "slug": "t20-blast"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+                    "id": "103808",
+                    "label": "Caribbean Premier League",
+                    "slug": "caribbean-premier-league"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+                    "id": "103809",
+                    "label": "Bangladesh Premier League",
+                    "slug": "bangladesh-premier-league"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+                    "id": "103810",
+                    "label": "Super Smash",
+                    "slug": "super-smash"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+                    "id": "103811",
+                    "label": "SA20",
+                    "slug": "sa20"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+                    "id": "103812",
+                    "label": "International League T20",
+                    "slug": "international-league-t20"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+                    "id": "103813",
+                    "label": "Major League Cricket",
+                    "slug": "major-league-cricket"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+                    "id": "104072",
+                    "label": "Hong Kong T20 Premier League Women",
+                    "slug": "hong-kong-t20-premier-league-women"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+                    "id": "104073",
+                    "label": "Plunket Shield",
+                    "slug": "plunket-shield"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+                    "id": "104074",
+                    "label": "Pakistan T20",
+                    "slug": "pakistan-t20"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/legends-league-cricket-3fae81117a.png",
+                    "id": "104203",
+                    "label": "Legends League Cricket",
+                    "slug": "legends-league-cricket"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/thunderbolt-t10-league-71af09d8e3.jpg",
+                    "id": "104206",
+                    "label": "Thunderbolt T10 League",
+                    "slug": "thunderbolt-t10-league"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+                    "id": "104447",
+                    "label": "T20 Brisbane Champions League",
+                    "slug": "T20-Brisbane-Champions-League"
+                }
+            ],
+            "forceShow": false,
+            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ipl-logo-mWgZFOEQvE23.jpg",
+            "id": "517",
+            "label": "Cricket",
+            "slug": "cricket"
+        },
+        {
+            "children": [
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-c14995df96.png",
+                    "id": "102003",
+                    "label": "NCAAW",
+                    "slug": "ncaaw"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+                    "id": "103093",
+                    "label": "Basketball Champions League",
+                    "slug": "basketball-champions-league"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+                    "id": "103094",
+                    "label": "Liga Endesa",
+                    "slug": "liga-endesa"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+                    "id": "103095",
+                    "label": "Basketball Series A",
+                    "slug": "basketball-series-a"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+                    "id": "103096",
+                    "label": "NBL",
+                    "slug": "nbl"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+                    "id": "103097",
+                    "label": "CBA",
+                    "slug": "cba"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+                    "id": "103098",
+                    "label": "Pro A",
+                    "slug": "pro-a"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+                    "id": "103099",
+                    "label": "LNB",
+                    "slug": "lnb"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+                    "id": "103100",
+                    "label": "KBL",
+                    "slug": "kbl"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+                    "id": "104344",
+                    "label": "VTB United League",
+                    "slug": "bkvtb"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+                    "id": "104345",
+                    "label": "Germany BBL",
+                    "slug": "bkbbl"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+                    "id": "104346",
+                    "label": "ABA League",
+                    "slug": "bkaba"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+                    "id": "104347",
+                    "label": "Turkey BSL",
+                    "slug": "bkbsl"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+                    "id": "104348",
+                    "label": "Greek Basketball League",
+                    "slug": "bkgr1"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+                    "id": "104349",
+                    "label": "Japan B League",
+                    "slug": "bkjpn"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+                    "id": "104350",
+                    "label": "FIBA WCQ Africa",
+                    "slug": "bkfibaqaf"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+                    "id": "104351",
+                    "label": "FIBA WCQ Americas",
+                    "slug": "bkfibaqam"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+                    "id": "104352",
+                    "label": "FIBA WCQ Asia",
+                    "slug": "bkfibaqas"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+                    "id": "104353",
+                    "label": "FIBA WCQ Europe",
+                    "slug": "bkfibaqeu"
+                }
+            ],
+            "forceShow": false,
+            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+            "id": "28",
+            "label": "Basketball",
+            "slug": "basketball"
+        },
+        {
+            "children": [
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kbo-8cac2c2a6e.png",
+                    "id": "102668",
+                    "label": "KBO",
+                    "slug": "kbo"
+                }
+            ],
+            "forceShow": false,
+            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kbo-8cac2c2a6e.png",
+            "id": "678",
+            "label": "Baseball",
+            "slug": "baseball"
+        },
+        {
+            "children": [
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
+                    "id": "899",
+                    "label": "NHL",
+                    "slug": "nhl"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/hockey-shl-5ebf2bfd88.png",
+                    "id": "102906",
+                    "label": "SHL",
+                    "slug": "shl"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/hockey-ahl-08180d2ef0.png",
+                    "id": "102907",
+                    "label": "AHL",
+                    "slug": "ahl"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/hockey-khl-a7c05698f3.png",
+                    "id": "102908",
+                    "label": "KHL",
+                    "slug": "khl"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/hockey-dehl-c1841cef09.png",
+                    "id": "102909",
+                    "label": "DEHL",
+                    "slug": "dehl"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/hockey-cehl-224d6e08ff.png",
+                    "id": "102910",
+                    "label": "CEHL",
+                    "slug": "cehl"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/olympics 2026-9a2a833d0a.png",
+                    "id": "103666",
+                    "label": "Men's Winter Olympics Hockey",
+                    "slug": "mens-winter-olympics-hockey"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/olympics 2026-9a2a833d0a.png",
+                    "id": "103667",
+                    "label": "Women's Winter Olympics Hockey",
+                    "slug": "womens-winter-olympics-hockey"
+                }
+            ],
+            "forceShow": false,
+            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/hockey-shl-5ebf2bfd88.png",
+            "id": "100088",
+            "label": "Hockey",
+            "slug": "hockey"
+        },
+        {
+            "children": [
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/rugby-ball.png",
+                    "id": "103054",
+                    "label": "Rugby Premiership",
+                    "slug": "rugby-premiership"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/rugby-ball.png",
+                    "id": "103055",
+                    "label": "Rugby Top 14",
+                    "slug": "rugby-top-14"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/rugby-ball.png",
+                    "id": "103111",
+                    "label": "Rugby Six Nations",
+                    "slug": "rugby-six-nations"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/rugby-ball.png",
+                    "id": "103112",
+                    "label": "United Rugby Championship",
+                    "slug": "united-rugby-championship"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/rugby-ball.png",
+                    "id": "103113",
+                    "label": "Rugby Champions Cup",
+                    "slug": "rugby-champions-cup"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/rugby-ball.png",
+                    "id": "103114",
+                    "label": "Super Rugby Pacific",
+                    "slug": "super-rugby-pacific"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/rugby-ball.png",
+                    "id": "103115",
+                    "label": "Rugby Championship",
+                    "slug": "rugby-championship"
+                }
+            ],
+            "forceShow": false,
+            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/rugby-ball.png",
+            "id": "102193",
+            "label": "Rugby",
+            "slug": "rugby"
+        },
+        {
+            "children": [
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wtt-logo-3830a9bcd5.png",
+                    "id": "103768",
+                    "label": "Ping Pong",
+                    "slug": "ping-pong"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wtt-logo-3830a9bcd5.png",
+                    "id": "103773",
+                    "label": "WTT Men's Singles",
+                    "slug": "wttms"
+                }
+            ],
+            "forceShow": false,
+            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wtt-logo-3830a9bcd5.png",
+            "id": "103767",
+            "label": "Table Tennis",
+            "slug": "table-tennis"
+        },
+        {
+            "children": [],
+            "forceShow": false,
+            "icon": null,
+            "id": "100219",
+            "label": "Golf",
+            "slug": "golf"
+        },
+        {
+            "children": [],
+            "forceShow": false,
+            "icon": null,
+            "id": "435",
+            "label": "Formula 1",
+            "slug": "formula1"
+        },
+        {
+            "children": [],
+            "forceShow": false,
+            "icon": null,
+            "id": "683",
+            "label": "Boxing",
+            "slug": "boxing"
+        }
+    ]
+}

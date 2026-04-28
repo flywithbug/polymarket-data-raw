@@ -1,0 +1,168 @@
+{
+    "rootTag": [
+        {
+            "id": "21",
+            "label": "Crypto",
+            "slug": "crypto",
+            "forceShow": false
+        },
+        {
+            "id": "1",
+            "label": "Sports",
+            "slug": "sports",
+            "forceShow": false
+        },
+        {
+            "id": "120",
+            "label": "Finance",
+            "slug": "finance",
+            "forceShow": false,
+            "childrenTagsApi": "https://gamma-api.polymarket.com/tags/slug/finance/related-tags/tags"
+        },
+        {
+            "id": "1013",
+            "label": "Earnings",
+            "slug": "earnings",
+            "forceShow": false
+        },
+        {
+            "id": "144",
+            "label": "Elections",
+            "slug": "elections",
+            "forceShow": false
+        },
+        {
+            "id": "100343",
+            "label": "Mentions",
+            "slug": "mention-markets",
+            "forceShow": false
+        },
+        {
+            "id": "2",
+            "label": "Politics",
+            "slug": "politics",
+            "forceShow": false,
+            "childrenTagsApi": "https://gamma-api.polymarket.com/tags/slug/politics/related-tags/tags"
+        },
+        {
+            "id": "100265",
+            "label": "Geopolitics",
+            "slug": "geopolitics",
+            "forceShow": true,
+            "childrenTagsApi": "https://gamma-api.polymarket.com/tags/slug/geopolitics/related-tags/tags"
+        },
+        {
+            "id": "1401",
+            "label": "Tech",
+            "slug": "tech",
+            "forceShow": false,
+            "childrenTagsApi": "https://gamma-api.polymarket.com/tags/slug/tech/related-tags/tags"
+        },
+        {
+            "id": "596",
+            "label": "Culture",
+            "slug": "pop-culture",
+            "forceShow": false,
+            "childrenTagsApi": "https://gamma-api.polymarket.com/tags/slug/pop-culture/related-tags/tags"
+        },
+        {
+            "id": "101970",
+            "label": "World",
+            "slug": "world",
+            "forceShow": false,
+            "childrenTagsApi": "https://gamma-api.polymarket.com/tags/slug/world/related-tags/tags"
+        },
+        {
+            "id": "100328",
+            "label": "Economy",
+            "slug": "economy",
+            "forceShow": false,
+            "childrenTagsApi": "https://gamma-api.polymarket.com/tags/slug/economy/related-tags/tags"
+        }
+    ],
+    "eventPath": "https://gamma-api.polymarket.com/events/keyset"
+}
+{
+    "rootTag": [
+        {
+            "id": "21",
+            "label": "Crypto",
+            "slug": "crypto",
+            "forceShow": false
+        },
+        {
+            "id": "1",
+            "label": "Sports",
+            "slug": "sports",
+            "forceShow": false
+        },
+        {
+            "id": "120",
+            "label": "Finance",
+            "slug": "finance",
+            "forceShow": false,
+            "childrenTagsApi": "https://gamma-api.polymarket.com/tags/slug/finance/related-tags/tags"
+        },
+        {
+            "id": "1013",
+            "label": "Earnings",
+            "slug": "earnings",
+            "forceShow": false
+        },
+        {
+            "id": "144",
+            "label": "Elections",
+            "slug": "elections",
+            "forceShow": false
+        },
+        {
+            "id": "100343",
+            "label": "Mentions",
+            "slug": "mention-markets",
+            "forceShow": false
+        },
+        {
+            "id": "2",
+            "label": "Politics",
+            "slug": "politics",
+            "forceShow": false,
+            "childrenTagsApi": "https://gamma-api.polymarket.com/tags/slug/politics/related-tags/tags"
+        },
+        {
+            "id": "100265",
+            "label": "Geopolitics",
+            "slug": "geopolitics",
+            "forceShow": true,
+            "childrenTagsApi": "https://gamma-api.polymarket.com/tags/slug/geopolitics/related-tags/tags"
+        },
+        {
+            "id": "1401",
+            "label": "Tech",
+            "slug": "tech",
+            "forceShow": false,
+            "childrenTagsApi": "https://gamma-api.polymarket.com/tags/slug/tech/related-tags/tags"
+        },
+        {
+            "id": "596",
+            "label": "Culture",
+            "slug": "pop-culture",
+            "forceShow": false,
+            "childrenTagsApi": "https://gamma-api.polymarket.com/tags/slug/pop-culture/related-tags/tags"
+        },
+        {
+            "id": "101970",
+            "label": "World",
+            "slug": "world",
+            "forceShow": false,
+            "childrenTagsApi": "https://gamma-api.polymarket.com/tags/slug/world/related-tags/tags"
+        },
+        {
+            "id": "100328",
+            "label": "Economy",
+            "slug": "economy",
+            "forceShow": false,
+            "childrenTagsApi": "https://gamma-api.polymarket.com/tags/slug/economy/related-tags/tags"
+        }
+    ],
+    "eventPath": "https://gamma-api.polymarket.com/events/keyset"
+}

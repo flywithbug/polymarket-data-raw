@@ -1,0 +1,77 @@
+{
+    "children":
+    [
+        {
+            "children":
+            [],
+            "forceShow": false,
+            "id": "102892",
+            "label": "5 Min",
+            "slug": "5m"
+        },
+        {
+            "children":
+            [],
+            "forceShow": false,
+            "id": "102467",
+            "label": "15 Min",
+            "slug": "15m"
+        },
+        {
+            "children":
+            [],
+            "forceShow": true,
+            "id": "102175",
+            "label": "1 Hour",
+            "slug": "1h"
+        },
+        {
+            "children":
+            [],
+            "forceShow": false,
+            "id": "102531",
+            "label": "4 Hour",
+            "slug": "4h"
+        },
+        {
+            "children":
+            [],
+            "forceShow": false,
+            "id": "102281",
+            "label": "Daily",
+            "slug": "daily"
+        },
+        {
+            "children":
+            [],
+            "forceShow": false,
+            "id": "102264",
+            "label": "Weekly",
+            "slug": "weekly"
+        },
+        {
+            "children":
+            [],
+            "forceShow": false,
+            "id": "102144",
+            "label": "Monthly",
+            "slug": "monthly"
+        },
+        {
+            "children":
+            [],
+            "forceShow": true,
+            "id": "102368",
+            "label": "Pre Market",
+            "slug": "pre-market"
+        },
+        {
+            "children":
+            [],
+            "forceShow": false,
+            "id": "833",
+            "label": "ETF",
+            "slug": "etf"
+        }
+    ]
+}
