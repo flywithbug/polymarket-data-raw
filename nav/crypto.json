@@ -1,77 +1,76 @@
 {
-    "children":
-    [
+    "children": [
         {
-            "children":
-            [],
+            "children": [],
             "forceShow": false,
             "id": "102892",
             "label": "5 Min",
-            "slug": "5m"
+            "slug": "5m",
+            "p_slug": "crypto"
         },
         {
-            "children":
-            [],
+            "children": [],
             "forceShow": false,
             "id": "102467",
             "label": "15 Min",
-            "slug": "15m"
+            "slug": "15m",
+            "p_slug": "crypto"
         },
         {
-            "children":
-            [],
+            "children": [],
             "forceShow": true,
             "id": "102175",
             "label": "1 Hour",
-            "slug": "1h"
+            "slug": "1h",
+            "p_slug": "crypto"
         },
         {
-            "children":
-            [],
+            "children": [],
             "forceShow": false,
             "id": "102531",
             "label": "4 Hour",
-            "slug": "4h"
+            "slug": "4h",
+            "p_slug": "crypto"
         },
         {
-            "children":
-            [],
+            "children": [],
             "forceShow": false,
             "id": "102281",
             "label": "Daily",
-            "slug": "daily"
+            "slug": "daily",
+            "p_slug": "crypto"
         },
         {
-            "children":
-            [],
+            "children": [],
             "forceShow": false,
             "id": "102264",
             "label": "Weekly",
-            "slug": "weekly"
+            "slug": "weekly",
+            "p_slug": "crypto"
         },
         {
-            "children":
-            [],
+            "children": [],
             "forceShow": false,
             "id": "102144",
             "label": "Monthly",
-            "slug": "monthly"
+            "slug": "monthly",
+            "p_slug": "crypto"
         },
         {
-            "children":
-            [],
+            "children": [],
             "forceShow": true,
             "id": "102368",
             "label": "Pre Market",
-            "slug": "pre-market"
+            "slug": "pre-market",
+            "p_slug": "crypto"
         },
         {
-            "children":
-            [],
+            "children": [],
             "forceShow": false,
             "id": "833",
             "label": "ETF",
-            "slug": "etf"
+            "slug": "etf",
+            "p_slug": "crypto"
         }
     ]
 }
