@@ -13,6 +13,13 @@
             "forceShow": false
         },
         {
+            "id": "2",
+            "label": "Politics",
+            "slug": "politics",
+            "forceShow": false,
+            "childrenTagsApi": "https://gamma-api.polymarket.com/tags/slug/politics/related-tags/tags"
+        },
+        {
             "id": "120",
             "label": "Finance",
             "slug": "finance",
@@ -36,13 +43,6 @@
             "label": "Mentions",
             "slug": "mention-markets",
             "forceShow": false
-        },
-        {
-            "id": "2",
-            "label": "Politics",
-            "slug": "politics",
-            "forceShow": false,
-            "childrenTagsApi": "https://gamma-api.polymarket.com/tags/slug/politics/related-tags/tags"
         },
         {
             "id": "100265",
