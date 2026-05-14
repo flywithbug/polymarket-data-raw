@@ -1,0 +1,30 @@
+{
+  "sportType": "football",
+  "source": "nav/sports.json",
+  "item": {
+    "children": [
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
+        "id": "450",
+        "label": "NFL",
+        "slug": "nfl",
+        "p_slug": "football"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/espn+college+football+logo.png",
+        "id": "100351",
+        "label": "CFB",
+        "slug": "cfb",
+        "p_slug": "football"
+      }
+    ],
+    "forceShow": false,
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
+    "id": "10",
+    "label": "Football",
+    "slug": "football",
+    "p_slug": "sports"
+  }
+}

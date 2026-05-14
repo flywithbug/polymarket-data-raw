@@ -1,0 +1,70 @@
+{
+  "sportType": "rugby",
+  "source": "nav/sports.json",
+  "item": {
+    "children": [
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/rugby-ball.png",
+        "id": "103054",
+        "label": "Rugby Premiership",
+        "slug": "rugby-premiership",
+        "p_slug": "rugby"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/rugby-ball.png",
+        "id": "103055",
+        "label": "Rugby Top 14",
+        "slug": "rugby-top-14",
+        "p_slug": "rugby"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/rugby-ball.png",
+        "id": "103111",
+        "label": "Rugby Six Nations",
+        "slug": "rugby-six-nations",
+        "p_slug": "rugby"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/rugby-ball.png",
+        "id": "103112",
+        "label": "United Rugby Championship",
+        "slug": "united-rugby-championship",
+        "p_slug": "rugby"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/rugby-ball.png",
+        "id": "103113",
+        "label": "Rugby Champions Cup",
+        "slug": "rugby-champions-cup",
+        "p_slug": "rugby"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/rugby-ball.png",
+        "id": "103114",
+        "label": "Super Rugby Pacific",
+        "slug": "super-rugby-pacific",
+        "p_slug": "rugby"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/rugby-ball.png",
+        "id": "103115",
+        "label": "Rugby Championship",
+        "slug": "rugby-championship",
+        "p_slug": "rugby"
+      }
+    ],
+    "forceShow": false,
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/rugby-ball.png",
+    "id": "102193",
+    "label": "Rugby",
+    "slug": "rugby",
+    "p_slug": "sports"
+  }
+}

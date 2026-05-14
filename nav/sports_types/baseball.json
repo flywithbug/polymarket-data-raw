@@ -1,0 +1,22 @@
+{
+  "sportType": "baseball",
+  "source": "nav/sports.json",
+  "item": {
+    "children": [
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kbo-8cac2c2a6e.png",
+        "id": "102668",
+        "label": "KBO",
+        "slug": "kbo",
+        "p_slug": "baseball"
+      }
+    ],
+    "forceShow": false,
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kbo-8cac2c2a6e.png",
+    "id": "678",
+    "label": "Baseball",
+    "slug": "baseball",
+    "p_slug": "sports"
+  }
+}

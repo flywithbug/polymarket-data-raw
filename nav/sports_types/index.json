@@ -1,0 +1,19 @@
+{
+  "generatedAt": "2026-05-14T07:43:32Z",
+  "source": "nav/sports.json",
+  "types": [
+    "baseball",
+    "basketball",
+    "boxing",
+    "cricket",
+    "football",
+    "formula1",
+    "golf",
+    "hockey",
+    "rugby",
+    "soccer",
+    "table-tennis",
+    "tennis",
+    "ufc"
+  ]
+}

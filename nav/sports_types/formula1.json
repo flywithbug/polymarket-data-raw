@@ -1,0 +1,13 @@
+{
+  "sportType": "formula1",
+  "source": "nav/sports.json",
+  "item": {
+    "children": [],
+    "forceShow": false,
+    "icon": null,
+    "id": "435",
+    "label": "Formula 1",
+    "slug": "formula1",
+    "p_slug": "sports"
+  }
+}

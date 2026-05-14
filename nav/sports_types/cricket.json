@@ -1,0 +1,278 @@
+{
+  "sportType": "cricket",
+  "source": "nav/sports.json",
+  "item": {
+    "children": [
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ipl-logo-mWgZFOEQvE23.jpg",
+        "id": "518",
+        "label": "India",
+        "slug": "india",
+        "p_slug": "cricket"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ipl-logo-mWgZFOEQvE23.jpg",
+        "id": "101977",
+        "label": "IPL",
+        "slug": "ipl",
+        "p_slug": "cricket"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+        "id": "102803",
+        "label": "International Cricket",
+        "slug": "international-cricket",
+        "p_slug": "cricket"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-south-africa-81c78b071d.png",
+        "id": "102808",
+        "label": "CSA T20",
+        "slug": "csa-t20",
+        "p_slug": "cricket"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/icc-2a6f105be7.jpg",
+        "id": "102810",
+        "label": "International T20",
+        "slug": "international-t20",
+        "p_slug": "cricket"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-lanka-premier-league-a0813e2f20.png",
+        "id": "102812",
+        "label": "Lanka Premier League",
+        "slug": "lanka-premier-league",
+        "p_slug": "cricket"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/big-bash-league-f223934dac.png",
+        "id": "102813",
+        "label": "Big Bash League",
+        "slug": "big-bash-league",
+        "p_slug": "cricket"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/icc-2a6f105be7.jpg",
+        "id": "102815",
+        "label": "ODI",
+        "slug": "odi",
+        "p_slug": "cricket"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-sheffield-shield-7aba596ab9.png",
+        "id": "102817",
+        "label": "Sheffield Shield",
+        "slug": "sheffield-shield",
+        "p_slug": "cricket"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/icc-world-test-a3388b385f.jpg",
+        "id": "102842",
+        "label": "Cricket Test",
+        "slug": "cricket-test",
+        "p_slug": "cricket"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+        "id": "102946",
+        "label": "Cricket Australia",
+        "slug": "cricket-australia",
+        "p_slug": "cricket"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+        "id": "102948",
+        "label": "Cricket UAE",
+        "slug": "cricket-uae",
+        "p_slug": "cricket"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+        "id": "102949",
+        "label": "Cricket New Zealand",
+        "slug": "cricket-new-zealand",
+        "p_slug": "cricket"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+        "id": "103014",
+        "label": "Cricket Bangladesh",
+        "slug": "cricket-bangladesh",
+        "p_slug": "cricket"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+        "id": "103178",
+        "label": "Cricket U19 World Cup",
+        "slug": "cricket-u19-world-cup",
+        "p_slug": "cricket"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+        "id": "103179",
+        "label": "Cricket Women Premier League",
+        "slug": "cricket-women-premier-league",
+        "p_slug": "cricket"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+        "id": "103180",
+        "label": "Women's National Cricket League",
+        "slug": "womens-national-cricket-league",
+        "p_slug": "cricket"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+        "id": "103181",
+        "label": "Afghanistan vs West Indies (T20I)",
+        "slug": "afghanistan-vs-west-indies-t20i",
+        "p_slug": "cricket"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+        "id": "103182",
+        "label": "Bhutan Tri-Series",
+        "slug": "bhutan-tri-series",
+        "p_slug": "cricket"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+        "id": "103805",
+        "label": "Pakistan Super League",
+        "slug": "pakistan-super-league",
+        "p_slug": "cricket"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+        "id": "103807",
+        "label": "T20 Blast",
+        "slug": "t20-blast",
+        "p_slug": "cricket"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+        "id": "103808",
+        "label": "Caribbean Premier League",
+        "slug": "caribbean-premier-league",
+        "p_slug": "cricket"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+        "id": "103809",
+        "label": "Bangladesh Premier League",
+        "slug": "bangladesh-premier-league",
+        "p_slug": "cricket"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+        "id": "103810",
+        "label": "Super Smash",
+        "slug": "super-smash",
+        "p_slug": "cricket"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+        "id": "103811",
+        "label": "SA20",
+        "slug": "sa20",
+        "p_slug": "cricket"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+        "id": "103812",
+        "label": "International League T20",
+        "slug": "international-league-t20",
+        "p_slug": "cricket"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+        "id": "103813",
+        "label": "Major League Cricket",
+        "slug": "major-league-cricket",
+        "p_slug": "cricket"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+        "id": "104072",
+        "label": "Hong Kong T20 Premier League Women",
+        "slug": "hong-kong-t20-premier-league-women",
+        "p_slug": "cricket"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+        "id": "104073",
+        "label": "Plunket Shield",
+        "slug": "plunket-shield",
+        "p_slug": "cricket"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+        "id": "104074",
+        "label": "Pakistan T20",
+        "slug": "pakistan-t20",
+        "p_slug": "cricket"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/legends-league-cricket-3fae81117a.png",
+        "id": "104203",
+        "label": "Legends League Cricket",
+        "slug": "legends-league-cricket",
+        "p_slug": "cricket"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/thunderbolt-t10-league-71af09d8e3.jpg",
+        "id": "104206",
+        "label": "Thunderbolt T10 League",
+        "slug": "thunderbolt-t10-league",
+        "p_slug": "cricket"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cricket-ball-a0b0bf2dc9.png",
+        "id": "104447",
+        "label": "T20 Brisbane Champions League",
+        "slug": "T20-Brisbane-Champions-League",
+        "p_slug": "cricket"
+      }
+    ],
+    "forceShow": false,
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ipl-logo-mWgZFOEQvE23.jpg",
+    "id": "517",
+    "label": "Cricket",
+    "slug": "cricket",
+    "p_slug": "sports"
+  }
+}

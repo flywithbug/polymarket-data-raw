@@ -1,0 +1,30 @@
+{
+  "sportType": "ufc",
+  "source": "nav/sports.json",
+  "item": {
+    "children": [
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ufc.png",
+        "id": "279",
+        "label": "UFC",
+        "slug": "ufc",
+        "p_slug": "ufc"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ufc.png",
+        "id": "103213",
+        "label": "Zuffa",
+        "slug": "zuffa",
+        "p_slug": "ufc"
+      }
+    ],
+    "forceShow": false,
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ufc.png",
+    "id": "279",
+    "label": "UFC",
+    "slug": "ufc",
+    "p_slug": "sports"
+  }
+}

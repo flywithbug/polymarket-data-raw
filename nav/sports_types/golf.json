@@ -1,0 +1,13 @@
+{
+  "sportType": "golf",
+  "source": "nav/sports.json",
+  "item": {
+    "children": [],
+    "forceShow": false,
+    "icon": null,
+    "id": "100219",
+    "label": "Golf",
+    "slug": "golf",
+    "p_slug": "sports"
+  }
+}

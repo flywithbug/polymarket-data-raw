@@ -1,0 +1,78 @@
+{
+  "sportType": "hockey",
+  "source": "nav/sports.json",
+  "item": {
+    "children": [
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
+        "id": "899",
+        "label": "NHL",
+        "slug": "nhl",
+        "p_slug": "hockey"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/hockey-shl-5ebf2bfd88.png",
+        "id": "102906",
+        "label": "SHL",
+        "slug": "shl",
+        "p_slug": "hockey"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/hockey-ahl-08180d2ef0.png",
+        "id": "102907",
+        "label": "AHL",
+        "slug": "ahl",
+        "p_slug": "hockey"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/hockey-khl-a7c05698f3.png",
+        "id": "102908",
+        "label": "KHL",
+        "slug": "khl",
+        "p_slug": "hockey"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/hockey-dehl-c1841cef09.png",
+        "id": "102909",
+        "label": "DEHL",
+        "slug": "dehl",
+        "p_slug": "hockey"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/hockey-cehl-224d6e08ff.png",
+        "id": "102910",
+        "label": "CEHL",
+        "slug": "cehl",
+        "p_slug": "hockey"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/olympics 2026-9a2a833d0a.png",
+        "id": "103666",
+        "label": "Men's Winter Olympics Hockey",
+        "slug": "mens-winter-olympics-hockey",
+        "p_slug": "hockey"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/olympics 2026-9a2a833d0a.png",
+        "id": "103667",
+        "label": "Women's Winter Olympics Hockey",
+        "slug": "womens-winter-olympics-hockey",
+        "p_slug": "hockey"
+      }
+    ],
+    "forceShow": false,
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/hockey-shl-5ebf2bfd88.png",
+    "id": "100088",
+    "label": "Hockey",
+    "slug": "hockey",
+    "p_slug": "sports"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "sportType": "tennis",
+  "source": "nav/sports.json",
+  "item": {
+    "children": [
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+        "id": "101232",
+        "label": "ATP",
+        "slug": "atp",
+        "p_slug": "tennis"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
+        "id": "102123",
+        "label": "WTA",
+        "slug": "wta",
+        "p_slug": "tennis"
+      }
+    ],
+    "forceShow": false,
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+    "id": "864",
+    "label": "Tennis",
+    "slug": "tennis",
+    "p_slug": "sports"
+  }
+}

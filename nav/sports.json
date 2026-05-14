@@ -1,7 +1,14 @@
 {
     "children": [
         {
-            "children": [],
+            "forceShow": false,
+            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+            "id": "102232",
+            "label": "FIFA World Cup",
+            "slug": "fifa-world-cup",
+            "p_slug": "soccer"
+        },
+        {
             "forceShow": false,
             "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
             "id": "745",
@@ -10,7 +17,6 @@
             "p_slug": "basketball"
         },
         {
-            "children": [],
             "forceShow": false,
             "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/champions-league-pic-QIUFsL8vaDdq.png",
             "id": "100977",
@@ -19,7 +25,6 @@
             "p_slug": "soccer"
         },
         {
-            "children": [],
             "forceShow": false,
             "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
             "id": "899",
@@ -751,6 +756,14 @@
         },
         {
             "children": [
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+                    "id": "745",
+                    "label": "NBA",
+                    "slug": "nba",
+                    "p_slug": "basketball"
+                },
                 {
                     "forceShow": false,
                     "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-c14995df96.png",

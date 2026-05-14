@@ -1,0 +1,13 @@
+{
+  "sportType": "boxing",
+  "source": "nav/sports.json",
+  "item": {
+    "children": [],
+    "forceShow": false,
+    "icon": null,
+    "id": "683",
+    "label": "Boxing",
+    "slug": "boxing",
+    "p_slug": "sports"
+  }
+}

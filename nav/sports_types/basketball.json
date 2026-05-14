@@ -1,0 +1,174 @@
+{
+  "sportType": "basketball",
+  "source": "nav/sports.json",
+  "item": {
+    "children": [
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+        "id": "745",
+        "label": "NBA",
+        "slug": "nba",
+        "p_slug": "basketball"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-c14995df96.png",
+        "id": "102003",
+        "label": "NCAAW",
+        "slug": "ncaaw",
+        "p_slug": "basketball"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+        "id": "103093",
+        "label": "Basketball Champions League",
+        "slug": "basketball-champions-league",
+        "p_slug": "basketball"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+        "id": "103094",
+        "label": "Liga Endesa",
+        "slug": "liga-endesa",
+        "p_slug": "basketball"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+        "id": "103095",
+        "label": "Basketball Series A",
+        "slug": "basketball-series-a",
+        "p_slug": "basketball"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+        "id": "103096",
+        "label": "NBL",
+        "slug": "nbl",
+        "p_slug": "basketball"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+        "id": "103097",
+        "label": "CBA",
+        "slug": "cba",
+        "p_slug": "basketball"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+        "id": "103098",
+        "label": "Pro A",
+        "slug": "pro-a",
+        "p_slug": "basketball"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+        "id": "103099",
+        "label": "LNB",
+        "slug": "lnb",
+        "p_slug": "basketball"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+        "id": "103100",
+        "label": "KBL",
+        "slug": "kbl",
+        "p_slug": "basketball"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+        "id": "104344",
+        "label": "VTB United League",
+        "slug": "bkvtb",
+        "p_slug": "basketball"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+        "id": "104345",
+        "label": "Germany BBL",
+        "slug": "bkbbl",
+        "p_slug": "basketball"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+        "id": "104346",
+        "label": "ABA League",
+        "slug": "bkaba",
+        "p_slug": "basketball"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+        "id": "104347",
+        "label": "Turkey BSL",
+        "slug": "bkbsl",
+        "p_slug": "basketball"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+        "id": "104348",
+        "label": "Greek Basketball League",
+        "slug": "bkgr1",
+        "p_slug": "basketball"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+        "id": "104349",
+        "label": "Japan B League",
+        "slug": "bkjpn",
+        "p_slug": "basketball"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+        "id": "104350",
+        "label": "FIBA WCQ Africa",
+        "slug": "bkfibaqaf",
+        "p_slug": "basketball"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+        "id": "104351",
+        "label": "FIBA WCQ Americas",
+        "slug": "bkfibaqam",
+        "p_slug": "basketball"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+        "id": "104352",
+        "label": "FIBA WCQ Asia",
+        "slug": "bkfibaqas",
+        "p_slug": "basketball"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+        "id": "104353",
+        "label": "FIBA WCQ Europe",
+        "slug": "bkfibaqeu",
+        "p_slug": "basketball"
+      }
+    ],
+    "forceShow": false,
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+    "id": "28",
+    "label": "Basketball",
+    "slug": "basketball",
+    "p_slug": "sports"
+  }
+}

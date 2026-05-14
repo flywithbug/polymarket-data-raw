@@ -1,0 +1,30 @@
+{
+  "sportType": "table-tennis",
+  "source": "nav/sports.json",
+  "item": {
+    "children": [
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wtt-logo-3830a9bcd5.png",
+        "id": "103768",
+        "label": "Ping Pong",
+        "slug": "ping-pong",
+        "p_slug": "table-tennis"
+      },
+      {
+        "forceShow": false,
+        "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wtt-logo-3830a9bcd5.png",
+        "id": "103773",
+        "label": "WTT Men's Singles",
+        "slug": "wttms",
+        "p_slug": "table-tennis"
+      }
+    ],
+    "forceShow": false,
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wtt-logo-3830a9bcd5.png",
+    "id": "103767",
+    "label": "Table Tennis",
+    "slug": "table-tennis",
+    "p_slug": "sports"
+  }
+}
