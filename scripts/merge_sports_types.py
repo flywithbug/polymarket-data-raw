@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 import json
-import shutil
 from pathlib import Path
 
 
@@ -14,7 +13,7 @@ def main() -> int:
     root_dir = Path(__file__).resolve().parent.parent
     types_dir = root_dir / "nav" / "sports_types"
     index_file = types_dir / "index.json"
-    root_cfg_file = types_dir / "root_config.json"
+    root_cfg_file = types_dir / "root_config.yaml"
     target_file = root_dir / "nav" / "sports.json"
 
     if not index_file.exists():
@@ -23,7 +22,12 @@ def main() -> int:
         raise FileNotFoundError(f"Missing root config file: {root_cfg_file}")
 
     index = json.loads(index_file.read_text(encoding="utf-8"))
-    cfg = json.loads(root_cfg_file.read_text(encoding="utf-8"))
+    try:
+        import yaml
+    except ImportError as e:
+        raise RuntimeError("PyYAML is required: pip install pyyaml") from e
+
+    cfg = yaml.safe_load(root_cfg_file.read_text(encoding="utf-8")) or {}
 
     type_names = index.get("types", [])
     if not type_names:
@@ -52,18 +56,28 @@ def main() -> int:
     for slug in promoted_slugs:
         if slug in seen:
             continue
+
+        # Prefer promoting a non-root child node (p_slug != sports)
+        chosen = None
         for n in all_nodes:
-            if n.get("slug") == slug:
-                promoted.append(n)
-                seen.add(slug)
+            if n.get("slug") == slug and n.get("p_slug") != "sports":
+                chosen = n
                 break
 
-    promoted_slug_set = set(promoted_slugs)
-    base_without_promoted = [n for n in base if n.get("slug") not in promoted_slug_set]
+        # Fallback: use first matched node
+        if chosen is None:
+            for n in all_nodes:
+                if n.get("slug") == slug:
+                    chosen = n
+                    break
 
-    # promoted nodes always stay at the front, preserving rootPromotedSlugs order
+        if chosen is not None:
+            promoted.append(chosen)
+            seen.add(slug)
+
+    # Keep original root nodes intact; promoted items are duplicated to root front.
     order_map = {slug: i for i, slug in enumerate(root_order)}
-    base_with_idx = list(enumerate(base_without_promoted))
+    base_with_idx = list(enumerate(base))
     base_with_idx.sort(key=lambda it: (order_map.get(it[1].get("slug"), 1_000_000), it[0]))
     sorted_base = [n for _, n in base_with_idx]
 
@@ -71,17 +85,10 @@ def main() -> int:
 
     output = {"children": children}
 
-    if target_file.exists():
-        backup = target_file.with_suffix(target_file.suffix + ".bak")
-        shutil.copyfile(target_file, backup)
-
     target_file.write_text(json.dumps(output, ensure_ascii=False, indent=4) + "\n", encoding="utf-8")
 
     print(f"[OK] Merged {len(type_names)} type files into {target_file}")
     print(f"[OK] Root config applied: {root_cfg_file}")
-    backup_file = target_file.with_suffix(target_file.suffix + ".bak")
-    if backup_file.exists():
-        print(f"[OK] Backup created: {backup_file}")
 
     return 0
 
