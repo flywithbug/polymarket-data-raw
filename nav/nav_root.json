@@ -1,5 +1,11 @@
 {
     "rootTag": [
+        {
+            "id": "1",
+            "label": "Sports",
+            "slug": "sports",
+            "forceShow": false,
+            "children": [
                 {
                     "forceShow": false,
                     "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
@@ -378,6 +384,8 @@
                     "slug": "soccer",
                     "p_slug": "sports"
                 }
-            ],
+            ]
+        }
+    ],
     "eventPath": "https://gamma-api.polymarket.com/events/keyset"
 }
