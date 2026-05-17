@@ -1,0 +1,7 @@
+{
+    "id": "2",
+    "label": "Politics",
+    "slug": "politics",
+    "forceShow": false,
+    "childrenTagsApi": "https://gamma-api.polymarket.com/tags/slug/politics/related-tags/tags"
+}

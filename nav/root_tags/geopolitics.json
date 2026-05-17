@@ -1,0 +1,7 @@
+{
+    "id": "100265",
+    "label": "Geopolitics",
+    "slug": "geopolitics",
+    "forceShow": true,
+    "childrenTagsApi": "https://gamma-api.polymarket.com/tags/slug/geopolitics/related-tags/tags"
+}

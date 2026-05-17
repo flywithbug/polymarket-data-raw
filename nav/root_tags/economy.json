@@ -1,0 +1,7 @@
+{
+    "id": "100328",
+    "label": "Economy",
+    "slug": "economy",
+    "forceShow": false,
+    "childrenTagsApi": "https://gamma-api.polymarket.com/tags/slug/economy/related-tags/tags"
+}

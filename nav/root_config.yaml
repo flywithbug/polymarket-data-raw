@@ -1,0 +1,24 @@
+# 控制 nav/root_tags/*.json -> nav/nav_root.json 的产出行为
+
+# nav_root.json 中的 eventPath
+eventPath: https://gamma-api.polymarket.com/events/keyset
+
+# 输出哪些 root 标签（按这里的顺序）
+visibleRootSlugs:
+  - crypto
+  - sports
+  - politics
+  - finance
+  - earnings
+  - elections
+  - mention-markets
+  - geopolitics
+  - tech
+  - pop-culture
+  - world
+  - economy
+
+# 当某个 slug 对应文件缺失时：
+# true: 直接报错，阻止生成
+# false: 跳过该标签继续生成
+strictMissingTagFile: true

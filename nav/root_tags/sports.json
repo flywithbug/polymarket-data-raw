@@ -1,4 +1,8 @@
 {
+    "id": "1",
+    "label": "Sports",
+    "slug": "sports",
+    "forceShow": false,
     "children": [
         {
             "children": [

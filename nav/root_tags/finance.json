@@ -1,0 +1,7 @@
+{
+    "id": "120",
+    "label": "Finance",
+    "slug": "finance",
+    "forceShow": false,
+    "childrenTagsApi": "https://gamma-api.polymarket.com/tags/slug/finance/related-tags/tags"
+}

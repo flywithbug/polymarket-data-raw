@@ -13,7 +13,7 @@ def main() -> int:
     root_dir = Path(__file__).resolve().parent.parent
     types_dir = root_dir / "nav" / "sports_types"
     index_file = types_dir / "index.json"
-    root_cfg_file = types_dir / "root_config.yaml"
+    root_cfg_file = types_dir / "sports_config.yaml"
     target_file = root_dir / "nav" / "sports.json"
 
     if not index_file.exists():
@@ -44,8 +44,8 @@ def main() -> int:
             raise ValueError(f"Invalid item in {f}: expect object")
         base.append(item)
 
-    root_order = cfg.get("rootOrder", [])
-    promoted_slugs = cfg.get("rootPromotedSlugs", [])
+    root_order = cfg.get("rootOrder") or []
+    promoted_slugs = cfg.get("rootPromotedSlugs") or []
 
     all_nodes = []
     for node in base:
@@ -57,14 +57,12 @@ def main() -> int:
         if slug in seen:
             continue
 
-        # Prefer promoting a non-root child node (p_slug != sports)
         chosen = None
         for n in all_nodes:
             if n.get("slug") == slug and n.get("p_slug") != "sports":
                 chosen = n
                 break
 
-        # Fallback: use first matched node
         if chosen is None:
             for n in all_nodes:
                 if n.get("slug") == slug:
@@ -75,11 +73,16 @@ def main() -> int:
             promoted.append(chosen)
             seen.add(slug)
 
-    # Keep original root nodes intact; promoted items are duplicated to root front.
     order_map = {slug: i for i, slug in enumerate(root_order)}
-    base_with_idx = list(enumerate(base))
-    base_with_idx.sort(key=lambda it: (order_map.get(it[1].get("slug"), 1_000_000), it[0]))
-    sorted_base = [n for _, n in base_with_idx]
+    base_by_slug = {str(n.get("slug") or "").strip(): n for n in base}
+
+    # rootOrder now works as both ordering and filtering.
+    # Only slugs listed in rootOrder are kept.
+    sorted_base = []
+    for slug in root_order:
+        node = base_by_slug.get(str(slug).strip())
+        if node is not None:
+            sorted_base.append(node)
 
     children = promoted + sorted_base
 

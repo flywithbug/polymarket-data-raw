@@ -1,4 +1,8 @@
 {
+    "id": "21",
+    "label": "Crypto",
+    "slug": "crypto",
+    "forceShow": false,
     "children": [
         {
             "children": [],

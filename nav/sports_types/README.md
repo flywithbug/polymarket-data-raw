@@ -15,7 +15,7 @@
 ## 文件
 
 - `index.json`：类型索引
-- `root_config.yaml`：根节点排序与提级联赛配置
+- `sports_config.yaml`：根节点排序与提级联赛配置
 - `<type>.json`：每个运动类型一个文件，结构为：
   - `sportType`
   - `source`
@@ -36,4 +36,4 @@
 python3 scripts/merge_sports_types.py
 ```
 
-会按 `index.json + root_config.yaml` 生成 `nav/sports.json`，并自动备份 `nav/sports.json.bak`。
+会按 `index.json + sports_config.yaml` 生成 `nav/sports.json`，并自动备份 `nav/sports.json.bak`。

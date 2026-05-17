@@ -1,0 +1,7 @@
+{
+    "id": "1401",
+    "label": "Tech",
+    "slug": "tech",
+    "forceShow": false,
+    "childrenTagsApi": "https://gamma-api.polymarket.com/tags/slug/tech/related-tags/tags"
+}

@@ -1,0 +1,26 @@
+rootOrder:
+  # - ufc
+  # - football
+  - soccer
+  # - tennis
+  # - cricket
+  # - basketball
+  # - baseball
+  # - hockey
+  # - rugby
+  # - table-tennis
+  # - golf
+  # - formula1
+  # - boxing
+
+rootPromotedSlugs:
+  # - fifa-world-cup
+  # - nba
+  # - ucl
+  # - nhl
+
+sportsTagMeta:
+  id: "1"
+  label: "Sports"
+  slug: "sports"
+  forceShow: false

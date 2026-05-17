@@ -1,0 +1,7 @@
+{
+    "id": "101970",
+    "label": "World",
+    "slug": "world",
+    "forceShow": false,
+    "childrenTagsApi": "https://gamma-api.polymarket.com/tags/slug/world/related-tags/tags"
+}

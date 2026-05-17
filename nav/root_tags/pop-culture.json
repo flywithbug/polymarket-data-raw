@@ -1,0 +1,7 @@
+{
+    "id": "596",
+    "label": "Culture",
+    "slug": "pop-culture",
+    "forceShow": false,
+    "childrenTagsApi": "https://gamma-api.polymarket.com/tags/slug/pop-culture/related-tags/tags"
+}
