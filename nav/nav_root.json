@@ -1,530 +1,375 @@
 {
+    "eventPath": "https://gamma-api.polymarket.com/events/keyset",
     "rootTag": [
         {
-            "id": "21",
-            "label": "Crypto",
-            "slug": "crypto",
-            "forceShow": false,
             "children": [
                 {
-                    "children": [],
                     "forceShow": false,
-                    "id": "102892",
-                    "label": "5 Min",
-                    "slug": "5m",
-                    "p_slug": "crypto"
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+                    "id": "102232",
+                    "label": "FIFA World Cup",
+                    "p_slug": "soccer",
+                    "slug": "fifa-world-cup"
                 },
                 {
-                    "children": [],
-                    "forceShow": false,
-                    "id": "102467",
-                    "label": "15 Min",
-                    "slug": "15m",
-                    "p_slug": "crypto"
-                },
-                {
-                    "children": [],
-                    "forceShow": true,
-                    "id": "102175",
-                    "label": "1 Hour",
-                    "slug": "1h",
-                    "p_slug": "crypto"
-                },
-                {
-                    "children": [],
-                    "forceShow": false,
-                    "id": "102531",
-                    "label": "4 Hour",
-                    "slug": "4h",
-                    "p_slug": "crypto"
-                },
-                {
-                    "children": [],
-                    "forceShow": false,
-                    "id": "102281",
-                    "label": "Daily",
-                    "slug": "daily",
-                    "p_slug": "crypto"
-                },
-                {
-                    "children": [],
-                    "forceShow": false,
-                    "id": "102264",
-                    "label": "Weekly",
-                    "slug": "weekly",
-                    "p_slug": "crypto"
-                },
-                {
-                    "children": [],
-                    "forceShow": false,
-                    "id": "102144",
-                    "label": "Monthly",
-                    "slug": "monthly",
-                    "p_slug": "crypto"
-                },
-                {
-                    "children": [],
-                    "forceShow": true,
-                    "id": "102368",
-                    "label": "Pre Market",
-                    "slug": "pre-market",
-                    "p_slug": "crypto"
-                },
-                {
-                    "children": [],
-                    "forceShow": false,
-                    "id": "833",
-                    "label": "ETF",
-                    "slug": "etf",
-                    "p_slug": "crypto"
-                }
-            ]
-        },
-        {
-            "id": "1",
-            "label": "Sports",
-            "slug": "sports",
-            "forceShow": false,
-            "children": [
-                {
-                    "children": [
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
-                            "id": "102232",
-                            "label": "FIFA World Cup",
-                            "slug": "fifa-world-cup",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
-                            "id": "306",
-                            "label": "EPL",
-                            "slug": "EPL",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-lal.png",
-                            "id": "780",
-                            "label": "La Liga",
-                            "slug": "la-liga",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-bun.jpg",
-                            "id": "1494",
-                            "label": "bundesliga",
-                            "slug": "bundesliga",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer-ball-d7941ac797.jpg",
-                            "id": "100100",
-                            "label": "MLS",
-                            "slug": "mls",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/con.png",
-                            "id": "100787",
-                            "label": "CONMEBOL",
-                            "slug": "conmebol",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/champions-league-pic-QIUFsL8vaDdq.png",
-                            "id": "100977",
-                            "label": "UCL",
-                            "slug": "ucl",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cof.png",
-                            "id": "101280",
-                            "label": "CONCACAF",
-                            "slug": "concacaf",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/afc.png",
-                            "id": "101680",
-                            "label": "AFC",
-                            "slug": "afc",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ere.png",
-                            "id": "101735",
-                            "label": "Eredivisie",
-                            "slug": "ere",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/liga-portugal-18a39e1e8d.png",
-                            "id": "101772",
-                            "label": "Primeira Liga",
-                            "slug": "primeira-liga",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/copa-del-ray-c8d5e1b076.png",
-                            "id": "101783",
-                            "label": "Copa Del Rey",
-                            "slug": "copa-del-rey",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/uel.png",
-                            "id": "101787",
-                            "label": "UEL",
-                            "slug": "uel",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Serie-A-Logo.png",
-                            "id": "101962",
-                            "label": "sea",
-                            "slug": "sea",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/itc.png",
-                            "id": "102008",
-                            "label": "Coppa Italia",
-                            "slug": "itc",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-fl1.png",
-                            "id": "102070",
-                            "label": "Ligue 1",
-                            "slug": "ligue-1",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/DFB-Pokal-ebed3c1834.png",
-                            "id": "102154",
-                            "label": "DFB-Pokal",
-                            "slug": "dfb-pokal",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/mex.png",
-                            "id": "102448",
-                            "label": "Liga MX",
-                            "slug": "mex",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/lcs.png",
-                            "id": "102449",
-                            "label": "Leagues Cup",
-                            "slug": "lcs",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fif.png",
-                            "id": "102539",
-                            "label": "Fifa Friendly",
-                            "slug": "fifa-friendly",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/caf.png",
-                            "id": "102540",
-                            "label": "CAF",
-                            "slug": "caf",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/uef.png",
-                            "id": "102544",
-                            "label": "UEF Qualifiers",
-                            "slug": "uef-qualifiers",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/arg.png",
-                            "id": "102561",
-                            "label": "Argentina Primera División",
-                            "slug": "arg",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/lib.png",
-                            "id": "102562",
-                            "label": "Copa Libertadores",
-                            "slug": "lib",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/sud.png",
-                            "id": "102563",
-                            "label": "Copa Sudamericana",
-                            "slug": "sud",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/tur.png",
-                            "id": "102564",
-                            "label": "Süper Lig",
-                            "slug": "tur",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/coupe-france-soccer-6cf56ac790.png",
-                            "id": "102604",
-                            "label": "Coupe de France",
-                            "slug": "coupe-de-france",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/elc2-e7d62fbec1.png",
-                            "id": "102643",
-                            "label": "EFL Championship",
-                            "slug": "efl-championship",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/brasilerirao-image-52ef283574.png",
-                            "id": "102648",
-                            "label": "Brazil Serie A",
-                            "slug": "brazil-serie-a",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/japan-league-a40db9c2f9.png",
-                            "id": "102649",
-                            "label": "Japan J League",
-                            "slug": "japan-j-league",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/saudi-league-0eb74ab5b8.png",
-                            "id": "102650",
-                            "label": "Saudi Professional League",
-                            "slug": "saudi-professional-league",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/norwegian-elite-2078e62a98.jpg",
-                            "id": "102651",
-                            "label": "Norway Eliteserien",
-                            "slug": "norway-eliteserien",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/superliga-b28b8e3c7c.png",
-                            "id": "102652",
-                            "label": "Denmark Superliga",
-                            "slug": "denmark-superliga",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/uefa-conference-league-798904aed0.png",
-                            "id": "102763",
-                            "label": "Europa Conference League",
-                            "slug": "europa-conference-league",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/chinese-super-league-39d902bcb6.png",
-                            "id": "102764",
-                            "label": "Chinese Super League",
-                            "slug": "chinese-super-league",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/a-league-6595bd3047.jpg",
-                            "id": "102765",
-                            "label": "Australian A-League",
-                            "slug": "australian-a-league",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/japan-j2-leauge-69530d7b40.png",
-                            "id": "102770",
-                            "label": "Japan J2 League",
-                            "slug": "japan-j2-league",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/k-league-87b53492f4.png",
-                            "id": "102771",
-                            "label": "K-league",
-                            "slug": "k-league",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/bundesliga-b9267b423e.jpg",
-                            "id": "102864",
-                            "label": "Bundesliga 2",
-                            "slug": "bundesliga-2",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/laliga-2-031640e567.jpg",
-                            "id": "102866",
-                            "label": "La Liga 2",
-                            "slug": "la-liga-2",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/serie-b-6e8f96a633.png",
-                            "id": "102870",
-                            "label": "Serie B",
-                            "slug": "serie-b",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ligue-2-9d570c4759.jpg",
-                            "id": "102871",
-                            "label": "Ligue 2",
-                            "slug": "ligue-2",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/supercupa-dbf3cf0ae5.png",
-                            "id": "103075",
-                            "label": "Spanish Super Cup",
-                            "slug": "spanish-super-cup",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wucl-68b2409fdc.png",
-                            "id": "103885",
-                            "label": "Women's Champions League",
-                            "slug": "womens-champions-league",
-                            "p_slug": "soccer"
-                        },
-                        {
-                            "forceShow": false,
-                            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ukraine premier league-3cb76c63f4.png",
-                            "id": "103886",
-                            "label": "Ukraine Premier Liha",
-                            "slug": "ukraine-premier-liha",
-                            "p_slug": "soccer"
-                        }
-                    ],
                     "forceShow": false,
                     "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
-                    "id": "100350",
-                    "label": "Soccer",
-                    "slug": "soccer",
-                    "p_slug": "sports"
+                    "id": "306",
+                    "label": "EPL",
+                    "p_slug": "soccer",
+                    "slug": "EPL"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-lal.png",
+                    "id": "780",
+                    "label": "La Liga",
+                    "p_slug": "soccer",
+                    "slug": "la-liga"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-bun.jpg",
+                    "id": "1494",
+                    "label": "bundesliga",
+                    "p_slug": "soccer",
+                    "slug": "bundesliga"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer-ball-d7941ac797.jpg",
+                    "id": "100100",
+                    "label": "MLS",
+                    "p_slug": "soccer",
+                    "slug": "mls"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/con.png",
+                    "id": "100787",
+                    "label": "CONMEBOL",
+                    "p_slug": "soccer",
+                    "slug": "conmebol"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/champions-league-pic-QIUFsL8vaDdq.png",
+                    "id": "100977",
+                    "label": "UCL",
+                    "p_slug": "soccer",
+                    "slug": "ucl"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cof.png",
+                    "id": "101280",
+                    "label": "CONCACAF",
+                    "p_slug": "soccer",
+                    "slug": "concacaf"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/afc.png",
+                    "id": "101680",
+                    "label": "AFC",
+                    "p_slug": "soccer",
+                    "slug": "afc"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ere.png",
+                    "id": "101735",
+                    "label": "Eredivisie",
+                    "p_slug": "soccer",
+                    "slug": "ere"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/liga-portugal-18a39e1e8d.png",
+                    "id": "101772",
+                    "label": "Primeira Liga",
+                    "p_slug": "soccer",
+                    "slug": "primeira-liga"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/copa-del-ray-c8d5e1b076.png",
+                    "id": "101783",
+                    "label": "Copa Del Rey",
+                    "p_slug": "soccer",
+                    "slug": "copa-del-rey"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/uel.png",
+                    "id": "101787",
+                    "label": "UEL",
+                    "p_slug": "soccer",
+                    "slug": "uel"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Serie-A-Logo.png",
+                    "id": "101962",
+                    "label": "sea",
+                    "p_slug": "soccer",
+                    "slug": "sea"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/itc.png",
+                    "id": "102008",
+                    "label": "Coppa Italia",
+                    "p_slug": "soccer",
+                    "slug": "itc"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-fl1.png",
+                    "id": "102070",
+                    "label": "Ligue 1",
+                    "p_slug": "soccer",
+                    "slug": "ligue-1"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/DFB-Pokal-ebed3c1834.png",
+                    "id": "102154",
+                    "label": "DFB-Pokal",
+                    "p_slug": "soccer",
+                    "slug": "dfb-pokal"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/mex.png",
+                    "id": "102448",
+                    "label": "Liga MX",
+                    "p_slug": "soccer",
+                    "slug": "mex"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/lcs.png",
+                    "id": "102449",
+                    "label": "Leagues Cup",
+                    "p_slug": "soccer",
+                    "slug": "lcs"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fif.png",
+                    "id": "102539",
+                    "label": "Fifa Friendly",
+                    "p_slug": "soccer",
+                    "slug": "fifa-friendly"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/caf.png",
+                    "id": "102540",
+                    "label": "CAF",
+                    "p_slug": "soccer",
+                    "slug": "caf"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/uef.png",
+                    "id": "102544",
+                    "label": "UEF Qualifiers",
+                    "p_slug": "soccer",
+                    "slug": "uef-qualifiers"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/arg.png",
+                    "id": "102561",
+                    "label": "Argentina Primera División",
+                    "p_slug": "soccer",
+                    "slug": "arg"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/lib.png",
+                    "id": "102562",
+                    "label": "Copa Libertadores",
+                    "p_slug": "soccer",
+                    "slug": "lib"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/sud.png",
+                    "id": "102563",
+                    "label": "Copa Sudamericana",
+                    "p_slug": "soccer",
+                    "slug": "sud"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/tur.png",
+                    "id": "102564",
+                    "label": "Süper Lig",
+                    "p_slug": "soccer",
+                    "slug": "tur"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/coupe-france-soccer-6cf56ac790.png",
+                    "id": "102604",
+                    "label": "Coupe de France",
+                    "p_slug": "soccer",
+                    "slug": "coupe-de-france"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/elc2-e7d62fbec1.png",
+                    "id": "102643",
+                    "label": "EFL Championship",
+                    "p_slug": "soccer",
+                    "slug": "efl-championship"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/brasilerirao-image-52ef283574.png",
+                    "id": "102648",
+                    "label": "Brazil Serie A",
+                    "p_slug": "soccer",
+                    "slug": "brazil-serie-a"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/japan-league-a40db9c2f9.png",
+                    "id": "102649",
+                    "label": "Japan J League",
+                    "p_slug": "soccer",
+                    "slug": "japan-j-league"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/saudi-league-0eb74ab5b8.png",
+                    "id": "102650",
+                    "label": "Saudi Professional League",
+                    "p_slug": "soccer",
+                    "slug": "saudi-professional-league"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/norwegian-elite-2078e62a98.jpg",
+                    "id": "102651",
+                    "label": "Norway Eliteserien",
+                    "p_slug": "soccer",
+                    "slug": "norway-eliteserien"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/superliga-b28b8e3c7c.png",
+                    "id": "102652",
+                    "label": "Denmark Superliga",
+                    "p_slug": "soccer",
+                    "slug": "denmark-superliga"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/uefa-conference-league-798904aed0.png",
+                    "id": "102763",
+                    "label": "Europa Conference League",
+                    "p_slug": "soccer",
+                    "slug": "europa-conference-league"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/chinese-super-league-39d902bcb6.png",
+                    "id": "102764",
+                    "label": "Chinese Super League",
+                    "p_slug": "soccer",
+                    "slug": "chinese-super-league"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/a-league-6595bd3047.jpg",
+                    "id": "102765",
+                    "label": "Australian A-League",
+                    "p_slug": "soccer",
+                    "slug": "australian-a-league"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/japan-j2-leauge-69530d7b40.png",
+                    "id": "102770",
+                    "label": "Japan J2 League",
+                    "p_slug": "soccer",
+                    "slug": "japan-j2-league"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/k-league-87b53492f4.png",
+                    "id": "102771",
+                    "label": "K-league",
+                    "p_slug": "soccer",
+                    "slug": "k-league"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/bundesliga-b9267b423e.jpg",
+                    "id": "102864",
+                    "label": "Bundesliga 2",
+                    "p_slug": "soccer",
+                    "slug": "bundesliga-2"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/laliga-2-031640e567.jpg",
+                    "id": "102866",
+                    "label": "La Liga 2",
+                    "p_slug": "soccer",
+                    "slug": "la-liga-2"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/serie-b-6e8f96a633.png",
+                    "id": "102870",
+                    "label": "Serie B",
+                    "p_slug": "soccer",
+                    "slug": "serie-b"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ligue-2-9d570c4759.jpg",
+                    "id": "102871",
+                    "label": "Ligue 2",
+                    "p_slug": "soccer",
+                    "slug": "ligue-2"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/supercupa-dbf3cf0ae5.png",
+                    "id": "103075",
+                    "label": "Spanish Super Cup",
+                    "p_slug": "soccer",
+                    "slug": "spanish-super-cup"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wucl-68b2409fdc.png",
+                    "id": "103885",
+                    "label": "Women's Champions League",
+                    "p_slug": "soccer",
+                    "slug": "womens-champions-league"
+                },
+                {
+                    "forceShow": false,
+                    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ukraine premier league-3cb76c63f4.png",
+                    "id": "103886",
+                    "label": "Ukraine Premier Liha",
+                    "p_slug": "soccer",
+                    "slug": "ukraine-premier-liha"
                 }
-            ]
-        },
-        {
-            "id": "2",
-            "label": "Politics",
-            "slug": "politics",
+            ],
             "forceShow": false,
-            "childrenTagsApi": "https://gamma-api.polymarket.com/tags/slug/politics/related-tags/tags"
-        },
-        {
-            "id": "120",
-            "label": "Finance",
-            "slug": "finance",
-            "forceShow": false,
-            "childrenTagsApi": "https://gamma-api.polymarket.com/tags/slug/finance/related-tags/tags"
-        },
-        {
-            "id": "1013",
-            "label": "Earnings",
-            "slug": "earnings",
-            "forceShow": false
-        },
-        {
-            "id": "144",
-            "label": "Elections",
-            "slug": "elections",
-            "forceShow": false
-        },
-        {
-            "id": "100343",
-            "label": "Mentions",
-            "slug": "mention-markets",
-            "forceShow": false
-        },
-        {
-            "id": "100265",
-            "label": "Geopolitics",
-            "slug": "geopolitics",
-            "forceShow": true,
-            "childrenTagsApi": "https://gamma-api.polymarket.com/tags/slug/geopolitics/related-tags/tags"
-        },
-        {
-            "id": "1401",
-            "label": "Tech",
-            "slug": "tech",
-            "forceShow": false,
-            "childrenTagsApi": "https://gamma-api.polymarket.com/tags/slug/tech/related-tags/tags"
-        },
-        {
-            "id": "596",
-            "label": "Culture",
-            "slug": "pop-culture",
-            "forceShow": false,
-            "childrenTagsApi": "https://gamma-api.polymarket.com/tags/slug/pop-culture/related-tags/tags"
-        },
-        {
-            "id": "101970",
-            "label": "World",
-            "slug": "world",
-            "forceShow": false,
-            "childrenTagsApi": "https://gamma-api.polymarket.com/tags/slug/world/related-tags/tags"
-        },
-        {
-            "id": "100328",
-            "label": "Economy",
-            "slug": "economy",
-            "forceShow": false,
-            "childrenTagsApi": "https://gamma-api.polymarket.com/tags/slug/economy/related-tags/tags"
+            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/premier+league.jpg",
+            "id": "100350",
+            "label": "Soccer",
+            "p_slug": "sports",
+            "slug": "soccer"
         }
-    ],
-    "eventPath": "https://gamma-api.polymarket.com/events/keyset"
+    ]
 }

@@ -5,18 +5,18 @@ eventPath: https://gamma-api.polymarket.com/events/keyset
 
 # 输出哪些 root 标签（按这里的顺序）
 visibleRootSlugs:
-  - crypto
+  # - crypto
   - sports
-  - politics
-  - finance
-  - earnings
-  - elections
-  - mention-markets
-  - geopolitics
-  - tech
-  - pop-culture
-  - world
-  - economy
+  # - politics
+  # - finance
+  # - earnings
+  # - elections
+  # - mention-markets
+  # - geopolitics
+  # - tech
+  # - pop-culture
+  # - world
+  # - economy
 
 # 当某个 slug 对应文件缺失时：
 # true: 直接报错，阻止生成
