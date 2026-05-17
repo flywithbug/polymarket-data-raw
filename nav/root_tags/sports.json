@@ -5,6 +5,14 @@
     "forceShow": false,
     "children": [
         {
+            "forceShow": false,
+            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/soccer ball-bba4025f77.png",
+            "id": "102232",
+            "label": "FIFA World Cup",
+            "slug": "fifa-world-cup",
+            "p_slug": "soccer"
+        },
+        {
             "children": [
                 {
                     "forceShow": false,

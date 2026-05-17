@@ -14,7 +14,7 @@ rootOrder:
   # - boxing
 
 rootPromotedSlugs:
-  # - fifa-world-cup
+  - fifa-world-cup
   # - nba
   # - ucl
   # - nhl
